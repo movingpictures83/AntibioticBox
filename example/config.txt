@@ -1,0 +1,2 @@
+Prefix plugins/AntibioticBox/example/
+Plugin AntibioticBox inputfile high-low.csv outputfile .
