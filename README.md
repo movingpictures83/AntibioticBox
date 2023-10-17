@@ -1,5 +1,5 @@
 # AntibioticBox
-# Language: Python
+# Language: R
 # Input: CSV
 # Output: DIR
 # Tested with: PluMA 2.0, R 4.0
